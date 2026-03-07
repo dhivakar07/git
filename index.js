@@ -1,1 +1,4 @@
-console.log("this is the git course")
+console.log("this is the git course");
+for (var i = 0; i < 5; i++) {
+  console.log("dhivakar");
+}
